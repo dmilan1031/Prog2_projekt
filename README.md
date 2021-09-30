@@ -10,5 +10,5 @@ Elsősorban egy 'proof of concept' programot készítek. Ez a szimuláció műk�
 
 Egyelőre ezeket a fő funkciókat tervezem hozzáadni a programhoz
 
--OpenGL megjelenítő: A szimulációból kinyert adatok 3D-s (az előbb említett teszt jellegű program csak 2D-ben működik) megjelenítése akár mozgóképként, GUI elskészítése.
--3D-s objektumok imprtálása
+- OpenGL megjelenítő: A szimulációból kinyert adatok 3D-s (az előbb említett teszt jellegű program csak 2D-ben működik) megjelenítése akár mozgóképként, GUI elskészítése.
+- 3D-s objektumok imprtálása
